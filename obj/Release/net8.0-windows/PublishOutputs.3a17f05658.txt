@@ -1,0 +1,14 @@
+C:\Users\Gamatech\Desktop\PlC.exe
+C:\Users\Gamatech\Desktop\libnodave_jfkmod.dll
+C:\Users\Gamatech\Desktop\libnodave_jfkmod64.dll
+C:\Users\Gamatech\Desktop\PlC.dll
+C:\Users\Gamatech\Desktop\PlC.deps.json
+C:\Users\Gamatech\Desktop\PlC.runtimeconfig.json
+C:\Users\Gamatech\Desktop\PlC.pdb
+C:\Users\Gamatech\Desktop\DotNetSiemensPLCToolBoxLibrary.dll
+C:\Users\Gamatech\Desktop\S7.Net.dll
+C:\Users\Gamatech\Desktop\ICSharpCode.SharpZipLib.dll
+C:\Users\Gamatech\Desktop\Snap7Server.Net.dll
+C:\Users\Gamatech\Desktop\snap7.dll
+C:\Users\Gamatech\Desktop\en\DotNetSiemensPLCToolBoxLibrary.resources.dll
+C:\Users\Gamatech\Desktop\es\DotNetSiemensPLCToolBoxLibrary.resources.dll
